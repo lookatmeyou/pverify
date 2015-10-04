@@ -1,2 +1,2 @@
 # pverify
-fast verify proxy servers
+Batch verify proxy servers
